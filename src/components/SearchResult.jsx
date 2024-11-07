@@ -28,5 +28,6 @@ const SearchResult = ({ data }) => {
     </div>
   );
 };
+////Reeee
 
 export default SearchResult
