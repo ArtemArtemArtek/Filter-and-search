@@ -1,0 +1,67 @@
+.cardContainer{
+    /* min-height: calc(100vh - 210px); */
+    background-image: url("/public/bg.png");
+    background-size: 100%;
+    height: 1000px;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 32px;
+    column-gap: 20px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+}
+
+.deviceCard{
+    width: 300px;
+    height: 250px;
+    border: 0.66px solid;
+    background-color:  #484c63;
+    border-radius: 20px;
+    display: flex;
+    padding: 30px;
+}
+
+.device_image{
+    height: 50%;
+    width: 100%;
+    margin-right: 100px;
+    margin-left: -10px;
+}
+
+.device_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: end;
+    h3 {
+      margin-top: 8px;
+      font-size: 16px;
+      font-weight: 500;
+    }
+    p {
+      margin-top: 4px;
+      font-size: 12px;
+    }
+    button {
+      font-size: 12px;
+    }
+  }
+
+  
+.buttonCard{
+    /* background: ${({ isSelected }) => (isSelected ? "#f22f2f" : "#ff4343")};
+    outline: 1px solid ${({ isSelected }) => (isSelected ? "white" : "#ff4343")}; */
+    background: #f22f2f;
+    border-radius: 5px;
+    padding: 6px 12px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    &:hover {
+      background-color: #f22f2f;
+    }
+  }

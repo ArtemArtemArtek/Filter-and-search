@@ -1,0 +1,52 @@
+{
+    "gadgetData": [
+        {
+            "id": 1,
+            "name": "Iphone",
+            "price": 10,
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+            "image": "https://ipixel.ru/upload/iblock/c56/iyi5b07g8vb73gx5p9gkwvgsneftcbgo.jpg",
+            "type": "phone"
+        },
+        {
+            "id": 2,
+            "name": "Macbook",
+            "price": 25,
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+            "image": "https://mac77.ru/wp-content/uploads/346664.jpg",
+            "type": "laptop"
+        },
+        {
+            "id": 3,
+            "name": "Sony",
+            "price": 45,
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyE7Wz7UHk0SEtQlK8HK1DkwLUSzwyREsUMQ&s",
+            "type": "phone"
+        },
+        {
+            "id": 4,
+            "name": "MSI",
+            "price": 18,
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+            "image": "https://apple-nova.ru/files/item/AnyConv.com__1145411_v01_b_1.jpeg",
+            "type": "laptop"
+        },
+        {
+            "id": 5,
+            "name": "Xiaomi",
+            "price": 23,
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+            "image": "https://img.mvideo.ru/Big/10031007bb2.jpg",
+            "type": "tv"
+        },
+        {
+            "id": 6,
+            "name": "Nokia",
+            "price": 25,
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
+            "image": "https://rarephones.ru/image/cache/catalog/products/nokia/nokia1100/nokia1100-800x800.jpg",
+            "type": "phone"
+        }
+    ]
+}
