@@ -1,8 +1,5 @@
 import React from "react";
 import './SearchResult.css'
-// import styled from "styled-components";
-// import { BASE_URL, Button, Container } from "../App";
-
 
 const SearchResult = ({ data }) => {
   return (
@@ -28,6 +25,5 @@ const SearchResult = ({ data }) => {
     </div>
   );
 };
-////Reeee
 
 export default SearchResult
